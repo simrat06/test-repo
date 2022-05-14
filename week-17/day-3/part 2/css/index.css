@@ -2,8 +2,10 @@
   width: 355px;
   background-color: lightblue;
   padding: 35px;
+  margin: 0 auto;
 /* Add margin here. */
 /* Add text align below */
+text-align: center;
 }
 
 

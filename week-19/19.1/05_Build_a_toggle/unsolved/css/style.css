@@ -1,1 +1,32 @@
 /* Style your dropdown below! */
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+li{
+    border: 1px solid black;
+    cursor: pointer;
+}
+.container{
+    margin: 0 auto;
+    text-align: center;
+    font-family: Open Sans;
+}
+#toggle img {
+    width: 1em;
+}
+#drpoDown{
+    display: none;
+    
+}
+#toggle{
+    background-color: #ff6767;
+    padding: 15px;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+}
+ul li, #toggle{
+    padding: 1rem;
+}
